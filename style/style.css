@@ -51,12 +51,18 @@ section {
     margin-bottom: 60px;
     margin-left: 45%;
     color: white;
+    padding-top: 20px;
     font-family: 'Inter', sans-serif;
 }
 
 .texto {
     font-size: 26px;
     text-align: justify;
+    white-space: wrap;
+    line-height: 1;
+    word-spacing: -1px;
+    
+
 }
 
 .text-eqp {
